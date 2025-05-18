@@ -31,7 +31,7 @@ Invia l’email.
 Oggetto:
 URGENTE - Richiesta di azioni concrete del Parlamento italiano in risposta alla situazione a Gaza
 
-
+-------------------------------------------------------------------------------------------------
 
 Onorevole Membro del Parlamento,
 
@@ -61,11 +61,11 @@ Con i più cordiali saluti,
 -------------------------------------------------------------------------------------------------
 
 - Blocco 1:
-aiello_d@camera.it
-albano_l@camera.it
-alifano_e@camera.it
-almici_c@camera.it
-amato_g@camera.it
+aiello_d@camera.it,
+albano_l@camera.it,
+alifano_e@camera.it,
+almici_c@camera.it,
+amato_g@camera.it,
 ambrosi_a@camera.it
 amendola_v@camera.it
 amich_v@camera.it
